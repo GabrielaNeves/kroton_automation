@@ -20,7 +20,7 @@ Caso de Teste 02 - Validar valor de ação da Vasta
     Coletar o valor da sigla "VSTA" na API do Yahoo Finanças
     Comparar valores obtidos
 
-Caso de Teste 03 - Validar valor de ação da Vasta
+Caso de Teste 03 - Validar valor do índice Ibovespa
     Acessar a home page do site "https://www.kroton.com.br/"
     Fechar o modal de cookies
     Coletar o valor da "Ibovespa" no site
